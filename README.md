@@ -17,4 +17,4 @@ Check out my **Advent of Code solutions repository**: [Advent of Code 2024](#)
 - 🔧 Built **job portals** using modern stacks like **Next.js**, **Clerk**, and **Supabase**.
 - 🛠️ Developed tools like **text utilities** for efficient text management.
 - 🌐 Contributed to **Hacktoberfest** as a participant and a maintainer.
-- 🤝 Recognized as a **Postman Student Expert
+- 🤝 Recognized as a **Postman Student Expert**
